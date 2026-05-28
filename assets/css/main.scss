@@ -1,0 +1,279 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;
+
+
+/* ==========================================================================
+   Custom visual refresh
+   ========================================================================== */
+
+
+/* Uniform site background */
+
+html,
+body,
+.initial-content,
+.page,
+.page__inner-wrap,
+.page__content,
+.sidebar,
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links,
+.archive {
+  background-color: #f6f8fa !important;
+}
+
+
+/* Typography */
+
+body {
+  font-family: "Avenir Next", Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-title,
+.author__name {
+  font-family: "Avenir Next", Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.02em;
+}
+
+
+/* Page title */
+
+.page__content h1,
+.page__title {
+  font-size: 2rem !important;
+  line-height: 1.12 !important;
+  letter-spacing: -0.025em;
+}
+
+
+/* Cleaner section rhythm */
+
+.page__content h2 {
+  border-bottom: none !important;
+  font-size: 1.25rem !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.65rem !important;
+  letter-spacing: -0.015em;
+}
+
+.page__content h3 {
+  font-size: 1.05rem !important;
+  margin-top: 1.6rem !important;
+  margin-bottom: 0.35rem !important;
+}
+
+.page__content p {
+  line-height: 1.58;
+}
+
+.page__content p + p {
+  margin-top: 0.9rem;
+}
+
+
+/* Minimal, calm links */
+
+.page__content a,
+.author__urls a {
+  color: #245f7a !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.page__content a:hover,
+.author__urls a:hover {
+  color: #0b3d5c !important;
+  text-decoration: underline !important;
+  text-underline-offset: 3px;
+}
+
+
+/* Header */
+
+.masthead {
+  border-bottom: 1px solid #d8dee4 !important;
+}
+
+.greedy-nav a,
+.greedy-nav .site-title,
+.greedy-nav ul,
+.greedy-nav .visible-links,
+.greedy-nav .visible-links li,
+.greedy-nav .hidden-links,
+.greedy-nav .hidden-links li {
+  background-color: transparent !important;
+}
+
+
+/* Sidebar */
+
+.author__avatar img {
+
+  border-radius: 10px !important;
+
+  border: none !important;
+
+  box-shadow: none !important;
+
+}
+
+.author__urls li {
+  border-bottom: none !important;
+}
+
+
+/* Footer */
+
+.page__footer {
+  background-color: #f6f8fa !important;
+  color: #57606a !important;
+  border-top: 1px solid #d8dee4;
+}
+
+.page__footer footer {
+  background-color: transparent !important;
+}
+
+.page__footer-copyright {
+  font-size: 0.75rem;
+}
+
+/* Page title */
+
+.page__content h1,
+
+.page__title {
+
+  font-size: 1.7rem !important;
+
+  line-height: 1.18 !important;
+
+  font-weight: 600 !important;
+
+  letter-spacing: -0.02em;
+
+  margin-bottom: 1.1rem !important;
+
+}
+
+/* Remove double underline in masthead */
+.masthead__menu-item,
+.masthead__menu-item--lg,
+.masthead__menu-item.selected,
+.greedy-nav .visible-links li,
+.greedy-nav .visible-links li.selected,
+.greedy-nav .visible-links li a,
+.greedy-nav .visible-links li.selected a {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Keep one subtle masthead separator */
+.masthead {
+  border-bottom: 1px solid #d8dee4 !important;
+}
+
+/* People page */
+
+.people-list {
+  margin-top: 2rem;
+}
+
+.person-card {
+  display: grid;
+  grid-template-columns: 115px 1fr;
+  gap: 1.25rem;
+  align-items: start;
+  margin-bottom: 2.4rem;
+}
+
+.person-card img {
+  width: 115px;
+  height: 115px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid #d8dee4;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.person-info h2 {
+  margin-top: 0 !important;
+  margin-bottom: 0.35rem !important;
+  font-size: 1.18rem !important;
+}
+
+.person-info p {
+  margin-top: 0.35rem !important;
+  margin-bottom: 0.35rem !important;
+}
+
+@media (max-width: 600px) {
+  .person-card {
+    grid-template-columns: 82px 1fr;
+    gap: 1rem;
+  }
+
+  .person-card img {
+    width: 82px;
+    height: 82px;
+  }
+}
+
+
+/* Author name highlight (medium weight, lighter than strong/bold) */
+
+.author-me {
+  font-weight: 500;
+}
