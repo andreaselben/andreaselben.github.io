@@ -148,12 +148,26 @@ h6,
 
 .greedy-nav a,
 .greedy-nav .site-title,
-.greedy-nav ul,
 .greedy-nav .visible-links,
-.greedy-nav .visible-links li,
-.greedy-nav .hidden-links,
-.greedy-nav .hidden-links li {
+.greedy-nav .visible-links li {
   background-color: transparent !important;
+}
+
+/* ...but the mobile overflow menu (.hidden-links) is a popover that floats
+   over page content, so it MUST stay opaque or the text bleeds through. */
+.greedy-nav .hidden-links {
+  background-color: #f6f8fa !important;
+  border: 1px solid #d8dee4 !important;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12) !important;
+  z-index: 20;
+}
+
+.greedy-nav .hidden-links::before {
+  border-bottom-color: #d8dee4 !important;
+}
+
+.greedy-nav .hidden-links::after {
+  border-bottom-color: #f6f8fa !important;
 }
 
 
