@@ -6,7 +6,7 @@ author_profile: false
 
   
 
-We will have two openings — a **postdoctoral researcher** and a **PhD student** — in quantum simulation and quantum information, with an intended start in fall 2026. Both sit at the interface of quantum information theory, many-body physics, quantum simulation, and quantum computing — translating ideas into protocols, code, and collaborations with experimental partners at PSI and beyond.
+We will have two openings — a **postdoctoral researcher** and a **PhD student** — in quantum simulation and quantum information, with an intended start in fall 2026. Both sit at the interface of quantum information theory, many-body physics, quantum simulation, and quantum computing — translating ideas into protocols, algorithms, and collaborations with experimental partners at PSI and beyond.
 
   
 
