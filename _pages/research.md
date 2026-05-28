@@ -6,7 +6,9 @@ author_profile: false
 
 How can we understand, learn from, and ultimately use quantum devices as controllable quantum many-body systems?
 
-Quantum simulators and quantum computers are not only computational platforms — they are highly complex many-body systems from which we can learn, discover, and be surprised. My research develops theoretical and computational methods to extract reliable information from these systems and to turn that understanding into useful protocols for quantum simulation and quantum computation.
+Quantum technology is moving toward increasingly capable devices for quantum computation, simulation, and sensing. Already today, these devices provide unprecedented experimental access to controlled many-body quantum systems, with tunable dynamics, measurements, interactions, and noise.
+
+These devices are fascinating quantum many-body systems in their own right. We develop theoretical and computational approaches to understand, probe, and learn from them — and to turn this understanding into useful protocols for quantum simulation, benchmarking, and quantum computation.
 
 ## Scientific directions
 
