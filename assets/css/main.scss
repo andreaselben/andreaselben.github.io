@@ -277,3 +277,28 @@ h6,
 .author-me {
   font-weight: 500;
 }
+
+
+/* ==========================================================================
+   Force light appearance even when the OS is in dark mode
+   --------------------------------------------------------------------------
+   The custom refresh above forces light backgrounds unconditionally, but the
+   dark theme still flipped --global-text-color to a light value when the
+   browser reported prefers-color-scheme: dark, leaving light text on a light
+   background. Re-point the dark-theme variables to the light values so the
+   site renders identically (and legibly) in both OS modes.
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  --global-text-color                : #222831;
+  --global-text-color-light          : #57606a;
+  --global-bg-color                  : #f6f8fa;
+  --global-masthead-link-color       : #222831;
+  --global-masthead-link-color-hover : #245f7a;
+  --global-link-color                : #245f7a;
+  --global-link-color-hover          : #0b3d5c;
+  --global-link-color-visited        : #245f7a;
+  --global-fig-caption-color         : #57606a;
+  --global-code-text-color           : #1f2328;
+  --global-border-color              : #d8dee4;
+}
