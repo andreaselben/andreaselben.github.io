@@ -30,4 +30,4 @@ A few directions we're currently working on:
 
 ---
 
-See also: [Research](/research/) · [Publications](/publications/) · [Software](/software/) · [People](/people/) · [Open positions](/opportunities/).
+See also: [Research](/research/) · [Publications](/publications/) · [Software](/software/) · [People](/people/) · [Opportunities](/opportunities/).
