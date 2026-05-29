@@ -14,7 +14,7 @@ We will have two openings — a **postdoctoral researcher** and a **PhD student*
 
   
 
-The position concerns the theory of digital-analog quantum simulation — developing methods that extend the capabilities of programmable analog platforms using ideas from quantum computation, quantum algorithms, learning, and error mitigation. Possible directions include benchmarking quantum gates and gate primitives, developing quantum algorithms for many-body simulation, designing probing and learning protocols, and devising error-mitigation strategies for realistic digital-analog simulation experiments. The successful candidate will contribute to shaping the research direction and is encouraged to develop their own research profile within the project.
+The position concerns the theory of digital-analog quantum simulation — developing methods that extend the capabilities of programmable analog platforms using ideas from quantum computation, quantum algorithms, learning, and error mitigation. Possible directions include benchmarking quantum gates and gate primitives, developing quantum algorithms for many-body simulation, designing probing and learning protocols, and devising error-mitigation strategies for realistic digital-analog simulation experiments. The successful candidate will contribute to shaping the research direction and is encouraged to develop their own research profile within the project and beyond.
 
   
 
@@ -62,4 +62,4 @@ If you're interested, please get in touch with:
 
   
 
-For either position, please write to me at [andreas.elben@psi.ch](mailto:andreas.elben@psi.ch). I'm happy to answer any questions and to share more details. For general information on working at PSI, see the [PSI HR pages](https://www.psi.ch/en/hr/phd-students-and-postdocs).
+For either position, please write to me at [andreas.elben@psi.ch](mailto:andreas.elben@psi.ch) with any questions you might have. I'm happy to answer any questions and to share more details. For general information on working at PSI, see the [PSI HR pages](https://www.psi.ch/en/hr/phd-students-and-postdocs).
