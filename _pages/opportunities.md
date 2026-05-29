@@ -18,7 +18,7 @@ The position concerns the theory of digital-analog quantum simulation — develo
 
   
 
-The position is part of a European collaboration with partner groups in Germany, France, and Spain, offering an active research network and opportunities to work with both theoretical and experimental partners. It is suited for candidates with a strong background in quantum many-body physics, quantum information theory, quantum simulation, quantum algorithms, or closely related areas; experience with analytical and numerical research is important, and programming experience is expected.
+The position is part of a European QuantERA collaboration with partner groups in Germany, France, and Spain, offering an active research network and opportunities to work with both theoretical and experimental partners. It is suited for candidates with a strong background in quantum many-body physics, quantum information theory, quantum simulation, quantum algorithms, or closely related areas; experience with analytical and numerical research is important, and programming experience is expected.
 
   
 
