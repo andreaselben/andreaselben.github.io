@@ -23,6 +23,7 @@ A few directions we're currently working on:
 
 ## News
 
+- *June 2026* — Our paper [*Classical shadows for sample-efficient measurements of gauge-invariant observables*](https://quantum-journal.org/papers/q-2026-06-08-2127/) has been published in *Quantum*. Joint work with Jacob Bringewatt, Henry Froland and Niklas Mueller.
 - *May 2026* — Our QuantERA grant *Digital-analog methods in quantum simulation has been approved*. Together with Monika Aidelsburger (LMU Munich), Daniel González-Cuadra (UAM Madrid), Philipp Preiss (MPQ), and Alexander Schuckert (ENS Paris), we will develop digital-analog approaches to quantum simulation, in particular for neutral atom devices. More information on our [webpage](http://digianaqsim.eu/). 
 - *Apr 2026* — Our paper [*RandomMeas.jl: A Julia Package for Randomized Measurements in Quantum Devices*](https://quantum-journal.org/papers/q-2026-04-28-2086/) was published in *Quantum*. Joint work with Benoît Vermersch (Grenoble) — the toolbox is available as an open-source [Julia package](/software/).
 - *Apr 2026* — Our SNF Project Funding grant *QMD — Quantum molecular dynamics on complementary quantum hardware platforms* has been approved. Together with Cornelius Hempel (PSI), Alexander Grimm (PSI), and Markus Reiher (ETH Zürich), we will develop quantum simulations of molecular dynamics on complementary quantum hardware.
