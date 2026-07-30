@@ -35,4 +35,4 @@ If you're interested, please get in touch with:
 
   
 
-For either position, please write to me at [andreas.elben@psi.ch](mailto:andreas.elben@psi.ch) with any questions you might have. I'm happy to answer any questions and to share more details. For general information on working at PSI, see the [PSI HR pages](https://www.psi.ch/en/hr/phd-students-and-postdocs).
+Please write to me at [andreas.elben@psi.ch](mailto:andreas.elben@psi.ch) with any questions you might have. I'm happy to answer any questions and to share more details. For general information on working at PSI, see the [PSI HR pages](https://www.psi.ch/en/hr/phd-students-and-postdocs).
