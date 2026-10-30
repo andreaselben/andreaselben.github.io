@@ -4,35 +4,25 @@ permalink: /opportunities/
 author_profile: false
 ---
 
-  
+## Postdoctoral position — quantum simulation and bosonic quantum information
 
-## Postdoctoral position — digital-analog quantum simulation and quantum many-body physics
+We are looking for a postdoctoral researcher to join us at the Laboratory for Theoretical and Computational Physics at the Paul Scherrer Institute (PSI). The position concerns theoretical research at the interface of quantum information theory and quantum many-body physics, with applications to quantum simulation and quantum computing. Particular emphasis is placed on bosonic and hybrid qubit-boson systems and applications to quantum chemistry. Possible directions include developing resource-efficient quantum simulation methods, designing quantum learning and benchmarking protocols, and characterizing the capabilities and limitations of realistic quantum computing devices. The successful candidate will contribute to shaping the research direction and is encouraged to develop their own research profile within the project and beyond.
 
-  
+The position is part of the interdisciplinary Quantum Molecular Dynamics project, a collaboration between PSI and ETH Zurich. The project brings together quantum information theory, theoretical chemistry, and experimental platforms based on trapped ions and superconducting quantum circuits to develop and benchmark methods for simulating molecular quantum dynamics. It offers opportunities for close collaboration with theoretical and experimental partners, with a particular focus on approaches combining qudits and bosonic degrees of freedom.
 
-The position concerns the theory of digital-analog quantum simulation — developing methods that extend the capabilities of programmable analog platforms using ideas from quantum computation, quantum algorithms, learning, and error mitigation. Possible directions include benchmarking quantum gates and gate primitives, developing quantum algorithms for many-body simulation, designing probing and learning protocols, and devising error-mitigation strategies for realistic digital-analog simulation experiments. The successful candidate will contribute to shaping the research direction and is encouraged to develop their own research profile within the project and beyond.
+Candidates should hold a PhD in physics or a closely related field and have a strong background in quantum information theory, quantum many-body physics, quantum simulation, or related areas. Experience in bosonic or continuous-variable quantum information, quantum learning and benchmarking, or quantum chemistry is particularly welcome. Experience with analytical or numerical research methods, including scientific programming, is expected.
 
-  
+The position is initially for **two years, with the option of an extension for a third year**.
 
-The position is part of a European collaboration with partner groups in Germany, France, and Spain, offering an active research network and opportunities to work with both theoretical and experimental partners, more information on this [webpage](http://digianaqsim.eu/). It is suited for candidates with a strong background in quantum many-body physics, quantum information theory, quantum simulation, quantum algorithms, or closely related areas; experience with analytical and numerical research is important, and programming experience is expected.
+### How to apply
 
-  
+Please apply through the [PSI application portal](https://www.psi.ch/en/hr/job-opportunities/75390-postdoctoral-fellow-in-quantum-simulation-and-bosonic-quantum) by **25 November 2026**, including:
 
-If you're interested, please get in touch with:
-
-  
-
-- your CV, including a publication list;
-
-- a brief statement of research interests (max. 1000 words), including how your background connects to the position and which scientific directions you would be interested in pursuing;
-
-- one or two representative publications or preprints, with a short description of your contributions.
-
-
-  
+- your CV and publication list;
+- a brief statement of research interests;
+- one or two representative publications or preprints (links are sufficient), with a short description of your individual contributions to each work;
+- contact details of at least two referees.
 
 ## Getting in touch
 
-  
-
-Please write to me at [andreas.elben@psi.ch](mailto:andreas.elben@psi.ch) with any questions you might have. I'm happy to answer any questions and to share more details. For general information on working at PSI, see the [PSI HR pages](https://www.psi.ch/en/hr/phd-students-and-postdocs).
+Please write to me at [andreas.elben@psi.ch](mailto:andreas.elben@psi.ch) with any questions about the position or potential research directions. I'm happy to share more details. For general information on working at PSI, see the [PSI HR pages](https://www.psi.ch/en/hr/phd-students-and-postdocs).
