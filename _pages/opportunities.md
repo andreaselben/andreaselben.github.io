@@ -12,7 +12,7 @@ The position is part of the interdisciplinary Quantum Molecular Dynamics project
 
 Candidates should hold a PhD in physics or a closely related field and have a strong background in quantum information theory, quantum many-body physics, quantum simulation, or related areas. Experience in bosonic or continuous-variable quantum information, quantum learning and benchmarking, or quantum chemistry is particularly welcome. Experience with analytical or numerical research methods, including scientific programming, is expected.
 
-The position is initially for **two years, with the option of an extension for a third year**.
+The position is initially for two years, with the option of an extension for a third year. Starting date is flexible (at the latest fall 2027).
 
 ### How to apply
 
