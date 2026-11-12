@@ -4,7 +4,7 @@ permalink: /opportunities/
 author_profile: false
 ---
 
-## Postdoctoral position — quantum simulation and bosonic quantum information
+## Postdoctoral position in quantum information theory with a focus on quantum simulation and bosonic quantum information
 
 We are looking for a postdoctoral researcher to join us at the Laboratory for Theoretical and Computational Physics at the Paul Scherrer Institute (PSI). The position concerns theoretical research at the interface of quantum information theory and quantum many-body physics, with applications to quantum simulation and quantum computing. Particular emphasis is placed on bosonic and hybrid qubit-boson systems and applications to quantum chemistry. Possible directions include developing resource-efficient quantum simulation methods, designing quantum learning and benchmarking protocols, and characterizing the capabilities and limitations of realistic quantum computing devices. The successful candidate will contribute to shaping the research direction and is encouraged to develop their own research profile within the project and beyond.
 
