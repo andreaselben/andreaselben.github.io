@@ -60,10 +60,12 @@ Dimitri's research topics include large-scale quantum channel learning with tens
 
 </div>
 
+Our team is growing, a postdoc and a Phd student are joining us in February 2027! 
+
 </div>
 
 </div>
 
 ---
 
-Interested in joining? See [Opportunities](/opportunities/).
+Interested in joining as well? See [Opportunities](/opportunities/).
